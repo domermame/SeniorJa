@@ -1,3 +1,3 @@
 # domermame
 
-domermameこと川上眞弓です。GitもJavaScriptも超初心者です。60歳を過ぎてついていけるかものすごく不安ですが、どうぞよろしくお願いします。
+domermameこと川上眞弓です。GitもJavaScriptも超初心者です。ついていけるかものすごく不安ですが、どうぞよろしくお願いします。
